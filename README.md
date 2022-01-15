@@ -1,4 +1,4 @@
-#### [🔗 Discord Link](https://discord.gg/zzugRm6Sbk) - [📖 Terms](https://github.com/Dev-Golem/Cope-Bot#terms) - [💡 Features](https://github.com/Dev-Golem/Cope-Bot#Features) - [Installation](https://github.com/Dev-Golem/Cope-Bot#installation)
+#### [🔗 Discord Link](https://discord.gg/zzugRm6Sbk) - [📖 Terms](https://github.com/Dev-Golem/oneclick-ip#terms) - [💡 Features](https://github.com/Dev-Golem/oneclick-ip#Features) - [Installation](https://github.com/Dev-Golem/oneclick-ip#installation)
 
 # Support
 if you need support join the server and create a ticket
