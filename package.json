@@ -1,0 +1,9 @@
+{
+    "name": "@EndzDaddy/oneclick-ip",
+    "version": "0.0.0",
+    "description": "",
+    "main": "index.html",
+    "scripts": {
+        "build": "npm version patch",
+    }
+}
